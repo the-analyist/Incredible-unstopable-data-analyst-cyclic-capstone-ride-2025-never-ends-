@@ -1,0 +1,15 @@
+This capstone project is part of the Google Data Analytics Professional Certificate. The goal is to analyze the difference between casual and annual riders of Cyclistic’s bike-share system and recommend strategies to increase annual memberships.
+
+## 🧭 Objectives
+- Compare usage patterns of casual vs. annual riders
+- Clean and analyze data using R
+- Share actionable business insights
+- Visualize trends and suggest data-driven marketing steps
+
+## 🛠 Tools
+- R (tidyverse, ggplot2)
+- Google Sheets
+- Tableau (optional)
+
+## 📈 Key Outcomes
+The project identifies behavioral trends and supports marketing to convert casual users to members.
