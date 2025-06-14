@@ -1,0 +1,15 @@
+This project was completed as part of the Google Data Analytics Professional Certificate. It analyzes user behavior for Cyclistic, a bike-share company in Chicago, focusing on the differences between casual riders and annual members. The objective is to uncover patterns and provide data-driven recommendations to increase annual memberships.
+
+## Objectives
+- Identify ride trends for different user types
+- Use R for data cleaning, analysis, and visualization
+- Present clear and actionable insights
+- Support marketing strategies using data
+
+## Tools and Technologies
+- R programming (tidyverse, lubridate, ggplot2)
+- Google Sheets
+- Tableau (optional)
+
+## Outcomes
+The analysis revealed significant behavioral differences between user types. The recommendations aim to help Cyclistic increase its annual membership base using evidence-based strategies.
